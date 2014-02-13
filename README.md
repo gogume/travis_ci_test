@@ -1,4 +1,4 @@
-travis_ci_test
+Travis CI test
 ==============
 
-Travis CI test project
+[![Build Status](https://api.travis-ci.org/gogume/travis_ci_test.png?branch=master)](https://travis-ci.org/gogume/travis_ci_test)
