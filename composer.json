@@ -1,3 +1,6 @@
 {
-    "name": "Travis test project"
+    "name": "Travis test project",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
 }
